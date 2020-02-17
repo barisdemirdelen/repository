@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "slug": "phpmyadmin",
   "description": "A web interface for the official MariaDB add-on",
-  "url": "https://github.com/hassio-addons/addon-phpmyadmin",
+  "url": "https://github.com/barisdemirdelen/addon-phpmyadmin",
   "ingress": true,
   "panel_icon": "mdi:database",
   "startup": "application",
